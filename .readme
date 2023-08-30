@@ -1,0 +1,5 @@
+INSTRUCTIONS:
+
+- To run the project type "cargo run" into the console.
+
+* It has not been tested yet, but installation on new machines may require running "cargo build" or "cargo install" prior to being able to test the code.
